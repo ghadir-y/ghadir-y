@@ -6,8 +6,9 @@ Frontend & Backend Developer
 
 Building modern and responsive Website, Web Applications and Android Apps 
 
+
 # 💫 About Me:
-About me<br><br>Frontend & Backend Web Developer<br>Focused on HTML,CSS,JavaSecript,Java & Python<br>Frameworks React, Angular, Springboot<br>Love building responsive User interface with best interactivity<br>Likely dealing with API <br>Responsive design Enthusiast<br>Very talented with need to explore new Technologies\\/p0  <br>
+About me<br><br>Frontend & Backend Web Developer<br>Focused on HTML,CSS,JavaSecript,Java & Python<br>Frameworks React, Angular, Springboot<br>Love building responsive User interface with best interactivity<br>Likely dealing with API <br>Responsive design Enthusiast<br>Very talented with need to explore new Technologies <br>
 
 
 # 💻 Tech Stack:
